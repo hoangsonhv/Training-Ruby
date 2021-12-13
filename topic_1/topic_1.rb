@@ -74,3 +74,5 @@ puts vietjet
 
 # 3_c
 puts Plane.max_fly_speed
+
+
